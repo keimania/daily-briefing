@@ -1,4 +1,4 @@
-"""Send daily briefing to Telegram via Bot API using HTML formatting."""
+"""Send daily briefing summary to Telegram via Bot API."""
 
 import os
 import re
@@ -12,143 +12,96 @@ def _escape_html(text: str) -> str:
     return text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
 
-def _md_to_telegram_html(briefing_md: str) -> str:
-    """Convert Obsidian markdown briefing to Telegram-compatible HTML."""
+def _build_telegram_summary(briefing_md: str, date_str: str) -> str:
+    """Extract title, link, and EN summary only for a compact Telegram message."""
     # Strip YAML frontmatter
     text = re.sub(r"^---\n.*?\n---\n", "", briefing_md, flags=re.DOTALL).strip()
 
     lines = text.split("\n")
     result = []
+    current_section = ""
+    current_article = {}
+    in_en_summary = False
+
+    def flush_article():
+        if current_article.get("title"):
+            title = _escape_html(current_article["title"])
+            url = current_article.get("url", "")
+            summary = _escape_html(current_article.get("summary", "").strip())
+            if url:
+                result.append(f"\n\u2022 <a href=\"{url}\">{title}</a>")
+            else:
+                result.append(f"\n\u2022 <b>{title}</b>")
+            if summary:
+                result.append(f"  {summary}")
 
     for line in lines:
         stripped = line.strip()
 
-        # # Title -> bold title with emoji
-        if stripped.startswith("# ") and not stripped.startswith("## "):
-            title = _escape_html(stripped[2:])
-            result.append(f"\U0001F4F0 <b>{title}</b>")
-
         # ## Section header
-        elif stripped.startswith("## "):
-            header = _escape_html(stripped[3:])
-            result.append(f"\n{'=' * 30}")
-            result.append(f"\U0001F4CC <b>{header}</b>")
-            result.append("=" * 30)
+        if stripped.startswith("## ") and not stripped.startswith("### "):
+            flush_article()
+            current_article = {}
+            in_en_summary = False
+            section = stripped[3:]
+            if "Key Takeaways" in section or "핵심" in section:
+                current_section = "takeaways"
+                result.append(f"\n{'─' * 25}")
+                result.append(f"\U0001F4CB <b>Key Takeaways</b>")
+            else:
+                current_section = section
+                result.append(f"\n{'─' * 25}")
+                emoji = "\U0001F4C8" if "Exchange" in section or "Finance" in section else "\U0001F916"
+                result.append(f"{emoji} <b>{_escape_html(section)}</b>")
 
-        # ### Article header: [Title](link)
+        # ### Article header
         elif stripped.startswith("### "):
+            flush_article()
+            current_article = {}
+            in_en_summary = False
             content = stripped[4:]
-            # Extract [title](url)
             link_match = re.match(r"\d+\.\s*\[(.+?)\]\((.+?)\)", content)
             if link_match:
-                title = _escape_html(link_match.group(1))
-                url = link_match.group(2)
-                result.append(f"\n\U0001F539 <b>{title}</b>")
-                result.append(f"\U0001F517 {url}")
+                current_article["title"] = link_match.group(1)
+                current_article["url"] = link_match.group(2)
             else:
-                result.append(f"\n\U0001F539 <b>{_escape_html(content)}</b>")
+                current_article["title"] = content
 
-        # **Source:** ...
-        elif stripped.startswith("**Source:**"):
-            source = _escape_html(stripped.replace("**Source:**", "").strip())
-            result.append(f"\U0001F4F1 {source}")
-
-        # **Summary (EN):**
+        # **Summary (EN):** inline or next line
         elif stripped.startswith("**Summary (EN):**"):
             remaining = stripped.replace("**Summary (EN):**", "").strip()
-            if remaining:
-                result.append(f"\n\U0001F1EC\U0001F1E7 <b>EN:</b> {_escape_html(remaining)}")
-            else:
-                result.append(f"\n\U0001F1EC\U0001F1E7 <b>EN:</b>")
+            current_article["summary"] = remaining
+            in_en_summary = True
 
-        # **요약 (KR):**
+        # **요약 (KR):** -> stop collecting EN summary
         elif stripped.startswith("**\uc694\uc57d (KR):**"):
-            remaining = stripped.replace("**\uc694\uc57d (KR):**", "").strip()
-            if remaining:
-                result.append(f"\n\U0001F1F0\U0001F1F7 <b>KR:</b> {_escape_html(remaining)}")
-            else:
-                result.append(f"\n\U0001F1F0\U0001F1F7 <b>KR:</b>")
+            in_en_summary = False
 
-        # **Tags:** ...
-        elif stripped.startswith("**Tags:**"):
-            tags = stripped.replace("**Tags:**", "").strip()
-            result.append(f"\U0001F3F7 {_escape_html(tags)}")
+        # **Source:** / **Tags:** -> skip, stop EN summary
+        elif stripped.startswith("**Source:**") or stripped.startswith("**Tags:**"):
+            in_en_summary = False
 
-        # Table rows (Key Takeaways)
-        elif stripped.startswith("|") and not stripped.startswith("|---"):
+        # Table rows (Key Takeaways) - EN only
+        elif current_section == "takeaways" and stripped.startswith("|") and not stripped.startswith("|---"):
             cells = [c.strip() for c in stripped.split("|")[1:-1]]
-            if len(cells) == 2 and cells[0] != "EN":
-                en_text = _escape_html(cells[0])
-                kr_text = _escape_html(cells[1])
-                result.append(f"\n\u2022 {en_text}")
-                result.append(f"  \u21B3 {kr_text}")
+            if len(cells) >= 1 and cells[0] != "EN":
+                result.append(f"  \u2022 {_escape_html(cells[0])}")
 
-        # Table header (skip)
-        elif stripped.startswith("|---"):
-            continue
+        # Continuation of EN summary
+        elif in_en_summary and stripped and not stripped.startswith("**"):
+            current_article["summary"] = current_article.get("summary", "") + " " + stripped
 
-        # Table header row
-        elif stripped.startswith("| EN"):
-            continue
+        # Skip everything else (KR summary, tags, blank lines, etc.)
 
-        # Horizontal rule / generator note
-        elif stripped.startswith("---") or stripped.startswith("*Generated"):
-            if stripped.startswith("*Generated"):
-                result.append(f"\n{'_' * 30}")
-                result.append(_escape_html(stripped.strip("*")))
-            continue
+    flush_article()
 
-        # Regular text (summary continuation lines)
-        elif stripped:
-            result.append(_escape_html(stripped))
-
-        # Blank lines -> keep one
-        else:
-            if result and result[-1] != "":
-                result.append("")
-
-    return "\n".join(result).strip()
-
-
-def _split_message(text: str, max_len: int = 4000) -> list[str]:
-    """Split a long message into chunks, breaking at double newlines."""
-    if len(text) <= max_len:
-        return [text]
-
-    chunks = []
-    # Split at section boundaries (=== lines)
-    sections = re.split(r"(?=\n={20,}\n)", text)
-    current = ""
-
-    for section in sections:
-        if len(current) + len(section) > max_len:
-            if current:
-                chunks.append(current.strip())
-            # If single section is too long, split at article boundaries
-            if len(section) > max_len:
-                parts = re.split(r"(?=\n\U0001F539 )", section)
-                sub = ""
-                for part in parts:
-                    if len(sub) + len(part) > max_len:
-                        if sub:
-                            chunks.append(sub.strip())
-                        sub = part
-                    else:
-                        sub += part
-                current = sub
-            else:
-                current = section
-        else:
-            current += section
-
-    if current.strip():
-        chunks.append(current.strip())
-
-    return chunks
+    header = f"\U0001F4F0 <b>Daily Briefing \u2014 {date_str}</b>"
+    body = "\n".join(result).strip()
+    return f"{header}\n\n{body}"
 
 
 def send_to_telegram(briefing_md: str, date_str: str) -> bool:
-    """Send briefing to Telegram chat via Bot API.
+    """Send compact briefing to Telegram chat via Bot API.
 
     Requires environment variables:
     - TELEGRAM_BOT_TOKEN: Bot token from @BotFather
@@ -161,17 +114,34 @@ def send_to_telegram(briefing_md: str, date_str: str) -> bool:
         print("[WARN] TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID not set. Skipping Telegram.")
         return False
 
-    html_text = _md_to_telegram_html(briefing_md)
-    messages = _split_message(html_text)
+    message = _build_telegram_summary(briefing_md, date_str)
+
+    # Split into chunks under Telegram's 4096 char limit
+    max_len = 3500
+    chunks = []
+    if len(message) <= max_len:
+        chunks = [message]
+    else:
+        # Split at article boundaries (bullet points)
+        parts = re.split(r"(?=\n\u2022 )", message)
+        current = ""
+        for part in parts:
+            if len(current) + len(part) > max_len and current:
+                chunks.append(current.strip())
+                current = part
+            else:
+                current += part
+        if current.strip():
+            chunks.append(current.strip())
 
     success = True
-    for i, msg in enumerate(messages):
+    for i, msg in enumerate(chunks):
         url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
         payload = json.dumps({
             "chat_id": chat_id,
             "text": msg,
             "parse_mode": "HTML",
-            "disable_web_page_preview": True,
+            "disable_web_page_preview": False,
         }).encode("utf-8")
 
         req = urllib.request.Request(
@@ -187,13 +157,28 @@ def send_to_telegram(briefing_md: str, date_str: str) -> bool:
                     print(f"[ERROR] Telegram API error (chunk {i+1}): {result}")
                     success = False
                 else:
-                    print(f"  Telegram message sent (chunk {i+1}/{len(messages)})")
+                    print(f"  Telegram message sent (chunk {i+1}/{len(chunks)})")
+        except urllib.error.HTTPError as e:
+            body = e.read().decode("utf-8", errors="replace")
+            print(f"[ERROR] Telegram API HTTP {e.code} (chunk {i+1}): {body}")
+            # Retry without HTML parse mode as fallback
+            payload_plain = json.dumps({
+                "chat_id": chat_id,
+                "text": msg.replace("<b>", "").replace("</b>", "").replace("<a href=\"", "").replace("\">", " - ").replace("</a>", ""),
+                "disable_web_page_preview": False,
+            }).encode("utf-8")
+            req_plain = urllib.request.Request(url, data=payload_plain, headers={"Content-Type": "application/json"})
+            try:
+                with urllib.request.urlopen(req_plain) as resp2:
+                    print(f"  Telegram message sent as plain text (chunk {i+1}/{len(chunks)})")
+            except Exception as e2:
+                print(f"[ERROR] Fallback also failed (chunk {i+1}): {e2}")
+                success = False
         except Exception as e:
             print(f"[ERROR] Failed to send Telegram message (chunk {i+1}): {e}")
             success = False
 
-        # Rate limit: slight delay between messages
-        if i < len(messages) - 1:
+        if i < len(chunks) - 1:
             time.sleep(0.5)
 
     return success
