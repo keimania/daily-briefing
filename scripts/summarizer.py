@@ -116,7 +116,7 @@ def generate_briefing(articles: dict[str, list[Article]], date_str: str) -> str:
     prompt = build_prompt(articles, date_str)
 
     response = client.models.generate_content(
-        model="gemini-3-flash-preview",
+        model="gemini-3.5-flash",
         contents=prompt,
     )
 
