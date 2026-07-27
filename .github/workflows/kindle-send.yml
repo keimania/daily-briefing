@@ -1,0 +1,54 @@
+name: Send Briefing to Kindle
+
+on:
+  workflow_dispatch:
+    inputs:
+      date:
+        description: 'Briefing date (YYYY-MM-DD). Defaults to today KST.'
+        required: false
+        default: ''
+
+jobs:
+  send-kindle:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Send briefing to Kindle
+        env:
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+        run: |
+          DATE="${{ github.event.inputs.date }}"
+          if [ -z "$DATE" ]; then
+            DATE=$(TZ='Asia/Seoul' date +%Y-%m-%d)
+          fi
+          echo "Sending briefing for: $DATE"
+          python3 - <<EOF
+          import os, sys
+          from pathlib import Path
+          from datetime import datetime, timezone, timedelta
+
+          sys.path.insert(0, 'scripts')
+          from kindle_sender import send_to_kindle
+
+          date_str = "$DATE"
+          year, month, _ = date_str.split('-')
+          path = Path('briefings') / year / month / f'{date_str}-daily-briefing.md'
+
+          if not path.exists():
+              print(f'[ERROR] Briefing file not found: {path}')
+              sys.exit(1)
+
+          briefing_md = path.read_text(encoding='utf-8')
+          print(f'Loaded briefing: {path} ({len(briefing_md):,} bytes)')
+          ok = send_to_kindle(briefing_md, date_str)
+          sys.exit(0 if ok else 1)
+          EOF
