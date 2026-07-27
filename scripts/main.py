@@ -14,6 +14,7 @@ from rss_sources import ALL_FEEDS
 from collect_news import collect_all
 from summarizer import generate_briefing
 from telegram_sender import send_to_telegram
+from kindle_sender import send_to_kindle
 
 
 def get_kst_date() -> str:
@@ -96,11 +97,15 @@ tags: [daily-briefing, exchange, finance, AI, KRX]
     print(f"Latest index updated: {index_path}")
 
     # Step 4: Send to Telegram
-    print("\n[4/4] Sending to Telegram...")
+    print("\n[4/5] Sending to Telegram...")
     if os.environ.get("TELEGRAM_BOT_TOKEN") and os.environ.get("TELEGRAM_CHAT_ID"):
         send_to_telegram(briefing_md, date_str)
     else:
         print("  Skipped (TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID not set)")
+
+    # Step 5: Send to Kindle
+    print("\n[5/5] Sending to Kindle...")
+    send_to_kindle(briefing_md, date_str)
 
     print("\nDone!")
 
