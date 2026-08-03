@@ -2,4 +2,4 @@
 aliases: [latest-briefing]
 ---
 
-![[2026-08-03-daily-briefing]]
+![[2026-08-04-daily-briefing]]
