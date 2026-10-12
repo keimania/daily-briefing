@@ -2,6 +2,7 @@
 
 import os
 from google import genai
+from google.genai import types
 from collect_news import Article
 
 
@@ -116,8 +117,11 @@ def generate_briefing(articles: dict[str, list[Article]], date_str: str) -> str:
     prompt = build_prompt(articles, date_str)
 
     response = client.models.generate_content(
-        model="gemini-3.5-flash",
+        model="gemini-3.8-flash",
         contents=prompt,
+        config=types.GenerateContentConfig(
+            thinking_config=types.ThinkingConfig(thinking_level="MEDIUM")
+        ),
     )
 
     return response.text
