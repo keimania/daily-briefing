@@ -2,8 +2,8 @@ name: Daily Briefing Generator
 
 on:
   schedule:
-    # Run at 22:20 UTC (= 07:20 KST next day)
-    - cron: '20 22 * * *'
+    # Run at 20:20 UTC (= 05:20 KST next day)
+    - cron: '20 20 * * *'
   workflow_dispatch: # Allow manual trigger
 
 permissions:
