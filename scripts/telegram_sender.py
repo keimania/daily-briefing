@@ -21,7 +21,7 @@ def _build_telegram_summary(briefing_md: str, date_str: str) -> str:
     result = []
     current_section = ""
     current_article = {}
-    in_en_summary = False
+    in_summary = False
 
     def flush_article():
         if current_article.get("title"):
@@ -42,7 +42,7 @@ def _build_telegram_summary(briefing_md: str, date_str: str) -> str:
         if stripped.startswith("## ") and not stripped.startswith("### "):
             flush_article()
             current_article = {}
-            in_en_summary = False
+            in_summary = False
             section = stripped[3:]
             if "Key Takeaways" in section or "핵심" in section:
                 current_section = "takeaways"
@@ -58,7 +58,7 @@ def _build_telegram_summary(briefing_md: str, date_str: str) -> str:
         elif stripped.startswith("### "):
             flush_article()
             current_article = {}
-            in_en_summary = False
+            in_summary = False
             content = stripped[4:]
             link_match = re.match(r"\d+\.\s*\[(.+?)\]\((.+?)\)", content)
             if link_match:
@@ -67,19 +67,19 @@ def _build_telegram_summary(briefing_md: str, date_str: str) -> str:
             else:
                 current_article["title"] = content
 
-        # **Summary (EN):** inline or next line
-        elif stripped.startswith("**Summary (EN):**"):
-            remaining = stripped.replace("**Summary (EN):**", "").strip()
+        # **Summary** (new alternating format, or legacy **Summary (EN):**)
+        elif stripped.startswith("**Summary"):
+            remaining = re.sub(r"^\*\*Summary.*?\*\*:\s*|^\*\*Summary.*?\*\*\s*", "", stripped).strip()
             current_article["summary"] = remaining
-            in_en_summary = True
+            in_summary = True
 
-        # **요약 (KR):** -> stop collecting EN summary
-        elif stripped.startswith("**\uc694\uc57d (KR):**"):
-            in_en_summary = False
+        # **요약 (KR):** -> stop collecting if legacy format
+        elif stripped.startswith("**\uc694\uc57d"):
+            in_summary = False
 
-        # **Source:** / **Tags:** -> skip, stop EN summary
+        # **Source:** / **Tags:** -> skip, stop summary
         elif stripped.startswith("**Source:**") or stripped.startswith("**Tags:**"):
-            in_en_summary = False
+            in_summary = False
 
         # Table rows (Key Takeaways) - EN only
         elif current_section == "takeaways" and stripped.startswith("|") and not stripped.startswith("|---"):
@@ -87,9 +87,12 @@ def _build_telegram_summary(briefing_md: str, date_str: str) -> str:
             if len(cells) >= 1 and cells[0] != "EN":
                 result.append(f"  \u2022 {_escape_html(cells[0])}")
 
-        # Continuation of EN summary
-        elif in_en_summary and stripped and not stripped.startswith("**"):
-            current_article["summary"] = current_article.get("summary", "") + " " + stripped
+        # Continuation of summary
+        elif in_summary and stripped and not stripped.startswith("**"):
+            if current_article.get("summary"):
+                current_article["summary"] += "\n  " + stripped
+            else:
+                current_article["summary"] = stripped
 
         # Skip everything else (KR summary, tags, blank lines, etc.)
 

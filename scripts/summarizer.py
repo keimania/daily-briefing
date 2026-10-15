@@ -39,11 +39,13 @@ I have collected the following news articles. Please create a daily briefing in 
 ## Rules:
 1. Select the TOP 5-7 most important articles for Exchange & Finance, and TOP 3-5 for AI & Tech.
 2. For each selected article, write:
-   - A detailed English summary (4-6 sentences). Include background context, key figures/data, and market implications.
-   - A detailed Korean translation of that summary (4-6 sentences). Must convey the same depth as the English version.
+   - A detailed summary synthesized from the full context (4-6 sentences covering background context, key figures/data, and market implications).
+   - The summary MUST be presented in alternating English and Korean sentences for English language learning: each English sentence must be immediately followed by its natural, context-aware Korean translation on the next line.
+   - Do NOT simply translate sentences in isolation. First understand the overarching story, background, and market implications, then construct precise English sentences and their natural Korean translations that accurately reflect the whole context.
+   - Place a blank line between each [English sentence + Korean translation] pair for clean reading.
 3. At the end, write 3-5 key takeaways in both English and Korean.
 4. Focus on news relevant to: stock exchanges, derivatives markets, clearing & settlement, market infrastructure, financial regulation, and AI/ML developments.
-5. IMPORTANT: Each field (Source, Summary, 요약, Tags) MUST be on its own separate line with a blank line between each field for readability.
+5. IMPORTANT: Each field (Source, Summary, Tags) MUST be on its own separate line with a blank line between each field for readability.
 6. Use the exact format template below - do not deviate.
 
 ## Collected Exchange & Finance Articles:
@@ -67,11 +69,15 @@ tags: [daily-briefing, exchange, finance, AI, KRX]
 
 **Source:** source name
 
-**Summary (EN):**
-Detailed English summary here (4-6 sentences with context, data, and implications)...
+**Summary:**
+English sentence 1 (background context and key facts).
+한국어 번역 문장 1 (문맥을 충실히 반영한 자연스러운 번역).
 
-**요약 (KR):**
-상세한 한국어 번역 요약 (4-6문장, 맥락, 데이터, 시사점 포함)...
+English sentence 2 (figures, data, or detailed developments).
+한국어 번역 문장 2 (수치와 세부 사항을 반영한 자연스러운 번역).
+
+English sentence 3 (market implications or strategic outlook).
+한국어 번역 문장 3 (시장 시사점 및 전망을 담은 자연스러운 번역).
 
 **Tags:** #relevant #tags
 
@@ -83,11 +89,15 @@ Detailed English summary here (4-6 sentences with context, data, and implication
 
 **Source:** source name
 
-**Summary (EN):**
-Detailed English summary here (4-6 sentences with context, data, and implications)...
+**Summary:**
+English sentence 1 (background context and key facts).
+한국어 번역 문장 1 (문맥을 충실히 반영한 자연스러운 번역).
 
-**요약 (KR):**
-상세한 한국어 번역 요약 (4-6문장, 맥락, 데이터, 시사점 포함)...
+English sentence 2 (figures, data, or detailed developments).
+한국어 번역 문장 2 (수치와 세부 사항을 반영한 자연스러운 번역).
+
+English sentence 3 (market implications or strategic outlook).
+한국어 번역 문장 3 (시장 시사점 및 전망을 담은 자연스러운 번역).
 
 **Tags:** #relevant #tags
 

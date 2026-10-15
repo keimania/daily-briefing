@@ -11,11 +11,21 @@ tags: [daily-briefing, exchange, finance, AI, KRX]
 
 **Source:** Reuters - Markets
 
-**Summary (EN):**
-The London Stock Exchange Group (LSEG) reported its annual financial results, highlighting a significant increase in adjusted Earnings Per Share (EPS). This growth underscores the successful integration of its data and analytics businesses, moving the group beyond traditional trading revenues. The results reflect strong performance across its capital markets and post-trade divisions, despite global macroeconomic volatility. Analysts suggest that LSEG’s strategic shift towards subscription-based data services is providing a more resilient revenue stream compared to transaction-dependent models. This financial stability positions the exchange group to further invest in cloud infrastructure and AI-driven market intelligence tools.
+**Summary:**
+The London Stock Exchange Group (LSEG) reported its annual financial results, highlighting a significant increase in adjusted Earnings Per Share (EPS).
+런던증권거래소그룹(LSEG)은 연간 실적 발표를 통해 조정 주당순이익(EPS)이 유의미하게 증가했다고 밝혔습니다.
 
-**요약 (KR):**
-런던증권거래소그룹(LSEG)은 연간 실적 발표를 통해 조정 주당순이익(EPS)이 유의미하게 증가했다고 밝혔습니다. 이러한 성장은 데이터 및 분석 사업의 성공적인 통합을 입증하며, 그룹이 전통적인 거래 수수료 수익 구조를 넘어섰음을 보여줍니다. 글로벌 거시경제의 변동성에도 불구하고 자본 시장 및 사후 거래 부문 전반에서 강력한 성과를 거두었습니다. 분석가들은 LSEG가 구독 기반 데이터 서비스로 전략을 전환함에 따라 거래량에 의존하는 모델보다 더 탄력적인 수익원을 확보하게 되었다고 평가합니다. 이러한 재무적 안정성을 바탕으로 LSEG는 클라우드 인프라와 AI 기반 시장 정보 툴에 대한 투자를 더욱 확대할 수 있는 발판을 마련했습니다.
+This growth underscores the successful integration of its data and analytics businesses, moving the group beyond traditional trading revenues.
+이러한 성장은 데이터 및 분석 사업의 성공적인 통합을 입증하며, 그룹이 전통적인 거래 수수료 수익 구조를 넘어섰음을 보여줍니다.
+
+The results reflect strong performance across its capital markets and post-trade divisions, despite global macroeconomic volatility.
+글로벌 거시경제의 변동성에도 불구하고 자본 시장 및 사후 거래 부문 전반에서 강력한 성과를 거두었습니다.
+
+Analysts suggest that LSEG’s strategic shift towards subscription-based data services is providing a more resilient revenue stream compared to transaction-dependent models.
+분석가들은 LSEG가 구독 기반 데이터 서비스로 전략을 전환함에 따라 거래량에 의존하는 모델보다 더 탄력적인 수익원을 확보하게 되었다고 평가합니다.
+
+This financial stability positions the exchange group to further invest in cloud infrastructure and AI-driven market intelligence tools.
+이러한 재무적 안정성을 바탕으로 LSEG는 클라우드 인프라와 AI 기반 시장 정보 툴에 대한 투자를 더욱 확대할 수 있는 발판을 마련했습니다.
 
 **Tags:** #LSEG #StockExchange #Earnings #FinancialData #CapitalMarkets
 
@@ -23,11 +33,21 @@ The London Stock Exchange Group (LSEG) reported its annual financial results, hi
 
 **Source:** Financial Times - Markets
 
-**Summary (EN):**
-Miami International Holdings (MIH) has formalized an agreement with the Options Clearing Corporation (OCC) to provide clearing and settlement services for the MIAX Futures Exchange. This partnership is a critical infrastructure milestone, as the OCC is the world’s largest equity derivatives clearing organization. By leveraging the OCC’s robust risk management framework, MIAX can offer market participants greater capital efficiency and streamlined processing for futures products. This move is expected to enhance liquidity on the MIAX platform by providing a standardized and trusted clearing environment. For the broader industry, it signifies intensifying competition among U.S. futures exchanges seeking to challenge established incumbents.
+**Summary:**
+Miami International Holdings (MIH) has formalized an agreement with the Options Clearing Corporation (OCC) to provide clearing and settlement services for the MIAX Futures Exchange.
+마이애미 인터내셔널 홀딩스(MIH)는 MIAX 선물 거래소의 청산 및 결제 서비스를 제공하기 위해 옵션청산공사(OCC)와 공식 계약을 체결했습니다.
 
-**요약 (KR):**
-마이애미 인터내셔널 홀딩스(MIH)는 MIAX 선물 거래소의 청산 및 결제 서비스를 제공하기 위해 옵션청산공사(OCC)와 공식 계약을 체결했습니다. 세계 최대 주식 파생상품 청산 기관인 OCC와의 이번 파트너십은 시장 인프라 구축에 있어 매우 중요한 이정표가 될 것입니다. MIAX는 OCC의 강력한 위험 관리 프레임워크를 활용함으로써 시장 참여자들에게 선물 상품에 대한 높은 자본 효율성과 간소화된 처리 프로세스를 제공할 수 있게 되었습니다. 이번 조치는 표준화되고 신뢰할 수 있는 청산 환경을 제공함으로써 MIAX 플랫폼의 유동성을 강화할 것으로 기대됩니다. 업계 전반적으로는 기존의 지배적인 거래소들에 도전하려는 미국 선물 거래소 간의 경쟁이 더욱 치열해지고 있음을 시사합니다.
+This partnership is a critical infrastructure milestone, as the OCC is the world’s largest equity derivatives clearing organization.
+세계 최대 주식 파생상품 청산 기관인 OCC와의 이번 파트너십은 시장 인프라 구축에 있어 매우 중요한 이정표가 될 것입니다.
+
+By leveraging the OCC’s robust risk management framework, MIAX can offer market participants greater capital efficiency and streamlined processing for futures products.
+MIAX는 OCC의 강력한 위험 관리 프레임워크를 활용함으로써 시장 참여자들에게 선물 상품에 대한 높은 자본 효율성과 간소화된 처리 프로세스를 제공할 수 있게 되었습니다.
+
+This move is expected to enhance liquidity on the MIAX platform by providing a standardized and trusted clearing environment.
+이번 조치는 표준화되고 신뢰할 수 있는 청산 환경을 제공함으로써 MIAX 플랫폼의 유동성을 강화할 것으로 기대됩니다.
+
+For the broader industry, it signifies intensifying competition among U.S. futures exchanges seeking to challenge established incumbents.
+업계 전반적으로는 기존의 지배적인 거래소들에 도전하려는 미국 선물 거래소 간의 경쟁이 더욱 치열해지고 있음을 시사합니다.
 
 **Tags:** #MIAX #OCC #Clearing #Settlement #FuturesMarket #Derivatives
 
@@ -35,11 +55,21 @@ Miami International Holdings (MIH) has formalized an agreement with the Options 
 
 **Source:** Financial Times - Markets
 
-**Summary (EN):**
-Deutsche Börse has detailed its strategic focus on expanding market data services and advancing clearing trends to adapt to changing capital market requirements. The exchange operator is increasingly prioritizing high-value data analytics and specialized clearing solutions for over-the-counter (OTC) derivatives. This shift is designed to capture a larger share of the post-trade value chain, where margins remain more attractive than in pure execution. Furthermore, Deutsche Börse is integrating digital asset infrastructure into its core offerings to facilitate institutional entry into tokenized securities. These initiatives reflect a broader trend among European exchanges to diversify revenue streams away from traditional trading volume fluctuations.
+**Summary:**
+Deutsche Börse has detailed its strategic focus on expanding market data services and advancing clearing trends to adapt to changing capital market requirements.
+도이치뵈르제는 변화하는 자본 시장 요구에 부응하기 위해 시장 데이터 서비스 확대 및 청산 트렌드 고도화에 대한 전략적 중점을 발표했습니다.
 
-**요약 (KR):**
-도이치뵈르제는 변화하는 자본 시장 요구에 부응하기 위해 시장 데이터 서비스 확대 및 청산 트렌드 고도화에 대한 전략적 중점을 발표했습니다. 이 거래소 운영사는 장외(OTC) 파생상품을 위한 고부가가치 데이터 분석과 전문 청산 솔루션의 우선순위를 높이고 있습니다. 이러한 전환은 단순 거래 실행보다 마진이 더 매력적인 사후 거래 가치 사슬에서 더 큰 점유율을 확보하기 위해 설계되었습니다. 또한, 도이치뵈르제는 기관 투자자들이 토큰화된 증권에 보다 쉽게 접근할 수 있도록 디지털 자산 인프라를 핵심 서비스에 통합하고 있습니다. 이러한 이니셔티브는 전통적인 거래량 변동에서 벗어나 수익원을 다각화하려는 유럽 거래소들의 광범위한 추세를 반영합니다.
+The exchange operator is increasingly prioritizing high-value data analytics and specialized clearing solutions for over-the-counter (OTC) derivatives.
+이 거래소 운영사는 장외(OTC) 파생상품을 위한 고부가가치 데이터 분석과 전문 청산 솔루션의 우선순위를 높이고 있습니다.
+
+This shift is designed to capture a larger share of the post-trade value chain, where margins remain more attractive than in pure execution.
+이러한 전환은 단순 거래 실행보다 마진이 더 매력적인 사후 거래 가치 사슬에서 더 큰 점유율을 확보하기 위해 설계되었습니다.
+
+Furthermore, Deutsche Börse is integrating digital asset infrastructure into its core offerings to facilitate institutional entry into tokenized securities.
+또한, 도이치뵈르제는 기관 투자자들이 토큰화된 증권에 보다 쉽게 접근할 수 있도록 디지털 자산 인프라를 핵심 서비스에 통합하고 있습니다.
+
+These initiatives reflect a broader trend among European exchanges to diversify revenue streams away from traditional trading volume fluctuations.
+이러한 이니셔티브는 전통적인 거래량 변동에서 벗어나 수익원을 다각화하려는 유럽 거래소들의 광범위한 추세를 반영합니다.
 
 **Tags:** #DeutscheBorse #MarketData #OTC #Clearing #Tokenization #DigitalAssets
 
@@ -47,11 +77,21 @@ Deutsche Börse has detailed its strategic focus on expanding market data servic
 
 **Source:** MarketWatch
 
-**Summary (EN):**
-A growing number of investors are utilizing offshore cryptocurrency platforms to trade synthetic versions of SpaceX shares ahead of its highly anticipated IPO. These platforms offer "pre-IPO" derivative contracts that track the estimated valuation of the private aerospace giant, effectively bypassing traditional Wall Street gatekeepers. While this provides retail investors with access to private unicorn valuations typically reserved for institutional players, it carries significant regulatory and counterparty risks. The emergence of these markets highlights the demand for a more democratized IPO process and the limitations of current capital market regulations. Regulators are expected to increase scrutiny on these platforms to prevent market manipulation and ensure investor protection.
+**Summary:**
+A growing number of investors are utilizing offshore cryptocurrency platforms to trade synthetic versions of SpaceX shares ahead of its highly anticipated IPO.
+점점 더 많은 투자자들이 스페이스X(SpaceX)의 대규모 기업공개(IPO)를 앞두고 역외 암호화폐 플랫폼을 통해 스페이스X 주식의 합성 버전을 거래하고 있습니다.
 
-**요약 (KR):**
-점점 더 많은 투자자들이 스페이스X(SpaceX)의 대규모 기업공개(IPO)를 앞두고 역외 암호화폐 플랫폼을 통해 스페이스X 주식의 합성 버전을 거래하고 있습니다. 이러한 플랫폼들은 민간 항공우주 거대 기업의 추정 가치를 추종하는 'IPO 전' 파생상품 계약을 제공하며, 사실상 월스트리트의 전통적인 중개 절차를 우회합니다. 이는 개인 투자자들에게 일반적으로 기관 투자자들에게만 제한되었던 비상장 유니콘 기업의 가치 평가에 접근할 기회를 제공하지만, 동시에 상당한 규제 및 거래 상대방 위험을 수반합니다. 이러한 시장의 등장은 보다 민주화된 IPO 프로세스에 대한 수요와 현재 자본 시장 규제의 한계를 극대화하여 보여줍니다. 규제 당국은 시장 조작을 방지하고 투자자를 보호하기 위해 이러한 플랫폼에 대한 감시를 강화할 것으로 예상됩니다.
+These platforms offer "pre-IPO" derivative contracts that track the estimated valuation of the private aerospace giant, effectively bypassing traditional Wall Street gatekeepers.
+이러한 플랫폼들은 민간 항공우주 거대 기업의 추정 가치를 추종하는 'IPO 전' 파생상품 계약을 제공하며, 사실상 월스트리트의 전통적인 중개 절차를 우회합니다.
+
+While this provides retail investors with access to private unicorn valuations typically reserved for institutional players, it carries significant regulatory and counterparty risks.
+이는 개인 투자자들에게 일반적으로 기관 투자자들에게만 제한되었던 비상장 유니콘 기업의 가치 평가에 접근할 기회를 제공하지만, 동시에 상당한 규제 및 거래 상대방 위험을 수반합니다.
+
+The emergence of these markets highlights the demand for a more democratized IPO process and the limitations of current capital market regulations.
+이러한 시장의 등장은 보다 민주화된 IPO 프로세스에 대한 수요와 현재 자본 시장 규제의 한계를 극대화하여 보여줍니다.
+
+Regulators are expected to increase scrutiny on these platforms to prevent market manipulation and ensure investor protection.
+규제 당국은 시장 조작을 방지하고 투자자를 보호하기 위해 이러한 플랫폼에 대한 감시를 강화할 것으로 예상됩니다.
 
 **Tags:** #SpaceX #IPO #OffshoreTrading #SyntheticAssets #Crypto #RetailInvesting
 
@@ -59,11 +99,21 @@ A growing number of investors are utilizing offshore cryptocurrency platforms to
 
 **Source:** Finextra
 
-**Summary (EN):**
-The fintech company Yotta has been fined $1 million for misleading customers regarding the safety and insurance of their deposits. Yotta falsely claimed that customer funds were insured by the FDIC while they were actually being held by the now-collapsed banking-as-a-service (BaaS) provider, Synapse. This enforcement action follows the broader systemic failure of Synapse, which has left thousands of customers unable to access their savings. The case underscores the critical risks within the BaaS ecosystem, where transparency in the custody and clearing of funds is often obscured. Regulators are now signaling much stricter oversight for fintech-bank partnerships to ensure that consumer protection standards are strictly upheld.
+**Summary:**
+The fintech company Yotta has been fined $1 million for misleading customers regarding the safety and insurance of their deposits.
+핀테크 기업 요타(Yotta)는 예치금의 안전성과 보험 적용 여부에 대해 고객을 오도한 혐의로 100만 달러의 벌금을 부과받았습니다.
 
-**요약 (KR):**
-핀테크 기업 요타(Yotta)는 예치금의 안전성과 보험 적용 여부에 대해 고객을 오도한 혐의로 100만 달러의 벌금을 부과받았습니다. 요타는 고객 자금이 연방예금보험공사(FDIC)의 보호를 받는다고 허위 주장했으나, 실제로는 현재 파산한 뱅킹 서비스(BaaS) 제공업체인 시냅스(Synapse)에 보관되어 있었습니다. 이번 조치는 수천 명의 고객이 저축액에 접근할 수 없게 된 시냅스의 광범위한 시스템적 붕괴 이후에 나온 것입니다. 이 사례는 자금의 수탁 및 청산 과정에서 투명성이 결여될 때 발생하는 BaaS 생태계 내의 심각한 위험을 여실히 보여줍니다. 규제 당국은 이제 소비자 보호 기준이 엄격히 준수되도록 핀테크와 은행 간의 파트너십에 대해 훨씬 더 강력한 감독을 예고하고 있습니다.
+Yotta falsely claimed that customer funds were insured by the FDIC while they were actually being held by the now-collapsed banking-as-a-service (BaaS) provider, Synapse.
+요타는 고객 자금이 연방예금보험공사(FDIC)의 보호를 받는다고 허위 주장했으나, 실제로는 현재 파산한 뱅킹 서비스(BaaS) 제공업체인 시냅스(Synapse)에 보관되어 있었습니다.
+
+This enforcement action follows the broader systemic failure of Synapse, which has left thousands of customers unable to access their savings.
+이번 조치는 수천 명의 고객이 저축액에 접근할 수 없게 된 시냅스의 광범위한 시스템적 붕괴 이후에 나온 것입니다.
+
+The case underscores the critical risks within the BaaS ecosystem, where transparency in the custody and clearing of funds is often obscured.
+이 사례는 자금의 수탁 및 청산 과정에서 투명성이 결여될 때 발생하는 BaaS 생태계 내의 심각한 위험을 여실히 보여줍니다.
+
+Regulators are now signaling much stricter oversight for fintech-bank partnerships to ensure that consumer protection standards are strictly upheld.
+규제 당국은 이제 소비자 보호 기준이 엄격히 준수되도록 핀테크와 은행 간의 파트너십에 대해 훨씬 더 강력한 감독을 예고하고 있습니다.
 
 **Tags:** #Fintech #Yotta #Synapse #BankingAsAService #Regulation #FDIC
 
@@ -71,11 +121,21 @@ The fintech company Yotta has been fined $1 million for misleading customers reg
 
 **Source:** Finextra
 
-**Summary (EN):**
-National Bank of Canada has spearheaded a $25 million Series C extension for Sardine, an AI-powered risk and fraud prevention platform. Sardine specializes in real-time fraud detection, compliance, and credit underwriting, utilizing machine learning to analyze behavior and device telemetry. This investment highlights the increasing reliance of traditional financial institutions on advanced AI tools to mitigate the risks associated with instant payments and digital onboarding. As clearing and settlement cycles move toward real-time, the need for instantaneous risk assessment becomes paramount for banks. The funding will enable Sardine to expand its product suite and support higher transaction volumes for its global banking partners.
+**Summary:**
+National Bank of Canada has spearheaded a $25 million Series C extension for Sardine, an AI-powered risk and fraud prevention platform.
+캐나다 국립은행(National Bank of Canada)은 AI 기반 리스크 및 사기 방지 플랫폼인 사딘(Sardine)에 대한 2,500만 달러 규모의 시리즈 C 연장 투자를 주도했습니다.
 
-**요약 (KR):**
-캐나다 국립은행(National Bank of Canada)은 AI 기반 리스크 및 사기 방지 플랫폼인 사딘(Sardine)에 대한 2,500만 달러 규모의 시리즈 C 연장 투자를 주도했습니다. 사딘은 실시간 사기 탐지, 컴플라이언스 및 신용 인수 전문 기업으로, 머신러닝을 활용해 행동 패턴과 기기 원격 측정 데이터를 분석합니다. 이번 투자는 실시간 결제 및 디지털 온보딩과 관련된 위험을 완화하기 위해 전통적인 금융 기관들이 고도화된 AI 툴에 점점 더 의존하고 있음을 보여줍니다. 청산 및 결제 주기가 실시간으로 전환됨에 따라 은행에 있어 즉각적인 리스크 평가는 필수적인 요소가 되었습니다. 이번 자금 조달을 통해 사딘은 제품군을 확장하고 글로벌 은행 파트너들의 더 많은 거래량을 지원할 수 있게 될 것입니다.
+Sardine specializes in real-time fraud detection, compliance, and credit underwriting, utilizing machine learning to analyze behavior and device telemetry.
+사딘은 실시간 사기 탐지, 컴플라이언스 및 신용 인수 전문 기업으로, 머신러닝을 활용해 행동 패턴과 기기 원격 측정 데이터를 분석합니다.
+
+This investment highlights the increasing reliance of traditional financial institutions on advanced AI tools to mitigate the risks associated with instant payments and digital onboarding.
+이번 투자는 실시간 결제 및 디지털 온보딩과 관련된 위험을 완화하기 위해 전통적인 금융 기관들이 고도화된 AI 툴에 점점 더 의존하고 있음을 보여줍니다.
+
+As clearing and settlement cycles move toward real-time, the need for instantaneous risk assessment becomes paramount for banks.
+청산 및 결제 주기가 실시간으로 전환됨에 따라 은행에 있어 즉각적인 리스크 평가는 필수적인 요소가 되었습니다.
+
+The funding will enable Sardine to expand its product suite and support higher transaction volumes for its global banking partners.
+이번 자금 조달을 통해 사딘은 제품군을 확장하고 글로벌 은행 파트너들의 더 많은 거래량을 지원할 수 있게 될 것입니다.
 
 **Tags:** #Sardine #AI #FraudDetection #NationalBankOfCanada #FintechInvestment #RealTimePayments
 
@@ -85,11 +145,21 @@ National Bank of Canada has spearheaded a $25 million Series C extension for Sar
 
 **Source:** Hacker News - AI
 
-**Summary (EN):**
-A new comparative study between AI security frameworks "Daybreak" and "Mythos" has highlighted critical vulnerabilities in Large Language Models (LLMs). The research demonstrates how prompt injection attacks can still bypass standard safety filters in even the most advanced models. Daybreak focuses on proactive defensive layers, while Mythos employs a reactive monitoring system to detect malicious intent in real-time. The implications for financial services are significant, as firms increasingly integrate LLMs into customer-facing applications and internal data analysis. As AI becomes core to market infrastructure, the need for standardized security protocols to prevent data leakage and manipulation is becoming an urgent regulatory concern.
+**Summary:**
+A new comparative study between AI security frameworks "Daybreak" and "Mythos" has highlighted critical vulnerabilities in Large Language Models (LLMs).
+AI 보안 프레임워크인 '데이브레이크(Daybreak)'와 '미토스(Mythos)' 간의 새로운 비교 연구는 대규모 언어 모델(LLM)의 심각한 취약점을 부각시켰습니다.
 
-**요약 (KR):**
-AI 보안 프레임워크인 '데이브레이크(Daybreak)'와 '미토스(Mythos)' 간의 새로운 비교 연구는 대규모 언어 모델(LLM)의 심각한 취약점을 부각시켰습니다. 이번 연구는 프롬프트 주입 공격이 어떻게 가장 발전된 모델에서도 표준 안전 필터를 여전히 우회할 수 있는지를 보여줍니다. 데이브레이크는 선제적인 방어 계층에 집중하는 반면, 미토스는 실시간으로 악의적인 의도를 감지하는 사후 모니터링 시스템을 채택하고 있습니다. 금융 서비스 업계가 LLM을 고객 응대 애플리케이션 및 내부 데이터 분석에 점점 더 통합하고 있다는 점에서 이번 연구의 시사점은 매우 큽니다. AI가 시장 인프라의 핵심이 됨에 따라, 데이터 유출 및 조작을 방지하기 위한 표준화된 보안 프로토콜의 필요성이 시급한 규제 사안으로 떠오르고 있습니다.
+The research demonstrates how prompt injection attacks can still bypass standard safety filters in even the most advanced models.
+이번 연구는 프롬프트 주입 공격이 어떻게 가장 발전된 모델에서도 표준 안전 필터를 여전히 우회할 수 있는지를 보여줍니다.
+
+Daybreak focuses on proactive defensive layers, while Mythos employs a reactive monitoring system to detect malicious intent in real-time.
+데이브레이크는 선제적인 방어 계층에 집중하는 반면, 미토스는 실시간으로 악의적인 의도를 감지하는 사후 모니터링 시스템을 채택하고 있습니다.
+
+The implications for financial services are significant, as firms increasingly integrate LLMs into customer-facing applications and internal data analysis.
+금융 서비스 업계가 LLM을 고객 응대 애플리케이션 및 내부 데이터 분석에 점점 더 통합하고 있다는 점에서 이번 연구의 시사점은 매우 큽니다.
+
+As AI becomes core to market infrastructure, the need for standardized security protocols to prevent data leakage and manipulation is becoming an urgent regulatory concern.
+AI가 시장 인프라의 핵심이 됨에 따라, 데이터 유출 및 조작을 방지하기 위한 표준화된 보안 프로토콜의 필요성이 시급한 규제 사안으로 떠오르고 있습니다.
 
 **Tags:** #AISecurity #LLM #Cybersecurity #PromptInjection #FinancialTech
 
@@ -97,11 +167,21 @@ AI 보안 프레임워크인 '데이브레이크(Daybreak)'와 '미토스(Mythos
 
 **Source:** The Times of India
 
-**Summary (EN):**
-India’s Comptroller and Auditor General (CAG) is developing a sovereign LLM platform designed to revolutionize public auditing and risk detection in procurement. This platform aims to identify patterns of corruption and inefficiency by analyzing vast amounts of government expenditure data that traditional methods might miss. By building a "sovereign" model, the CAG ensures that sensitive national data remains within a secure, controlled environment, reducing reliance on foreign commercial AI providers. This initiative represents a major step toward "GovTech" transformation, using AI to enhance transparency and accountability in public finance. It also sets a precedent for how public institutions can leverage specialized AI to monitor complex financial ecosystems.
+**Summary:**
+India’s Comptroller and Auditor General (CAG) is developing a sovereign LLM platform designed to revolutionize public auditing and risk detection in procurement.
+인도 감사원(CAG)은 공공 감사 및 조달 리스크 탐지에 혁신을 일으키기 위해 설계된 자체 LLM 플랫폼을 개발 중입니다.
 
-**요약 (KR):**
-인도 감사원(CAG)은 공공 감사 및 조달 리스크 탐지에 혁신을 일으키기 위해 설계된 자체 LLM 플랫폼을 개발 중입니다. 이 플랫폼은 전통적인 방식으로는 놓치기 쉬운 방대한 정부 지출 데이터를 분석하여 부패 및 비효율의 패턴을 식별하는 것을 목표로 합니다. '주권적' 모델을 구축함으로써 CAG는 민감한 국가 데이터가 안전하고 통제된 환경 내에 머물도록 보장하며, 외국 상용 AI 제공업체에 대한 의존도를 낮춥니다. 이 이니셔티브는 공공 재정의 투명성과 책임성을 강화하기 위해 AI를 사용하는 '정부 기술(GovTech)' 혁신의 큰 진전을 의미합니다. 또한, 이는 공공 기관이 복잡한 금융 생태계를 모니터링하기 위해 특화된 AI를 어떻게 활용할 수 있는지에 대한 선례를 남겼습니다.
+This platform aims to identify patterns of corruption and inefficiency by analyzing vast amounts of government expenditure data that traditional methods might miss.
+이 플랫폼은 전통적인 방식으로는 놓치기 쉬운 방대한 정부 지출 데이터를 분석하여 부패 및 비효율의 패턴을 식별하는 것을 목표로 합니다.
+
+By building a "sovereign" model, the CAG ensures that sensitive national data remains within a secure, controlled environment, reducing reliance on foreign commercial AI providers.
+'주권적' 모델을 구축함으로써 CAG는 민감한 국가 데이터가 안전하고 통제된 환경 내에 머물도록 보장하며, 외국 상용 AI 제공업체에 대한 의존도를 낮춥니다.
+
+This initiative represents a major step toward "GovTech" transformation, using AI to enhance transparency and accountability in public finance.
+이 이니셔티브는 공공 재정의 투명성과 책임성을 강화하기 위해 AI를 사용하는 '정부 기술(GovTech)' 혁신의 큰 진전을 의미합니다.
+
+It also sets a precedent for how public institutions can leverage specialized AI to monitor complex financial ecosystems.
+또한, 이는 공공 기관이 복잡한 금융 생태계를 모니터링하기 위해 특화된 AI를 어떻게 활용할 수 있는지에 대한 선례를 남겼습니다.
 
 **Tags:** #GovTech #SovereignAI #Auditing #PublicFinance #India #RiskManagement
 
@@ -109,11 +189,21 @@ India’s Comptroller and Auditor General (CAG) is developing a sovereign LLM pl
 
 **Source:** HackerNoon
 
-**Summary (EN):**
-Addressing the scarcity of industrial data in emerging markets, a new Nigeria-focused machinery dataset has been released with an LLM-ready structure. This project aims to overcome the "data desert" that often hampers the development of localized AI solutions for African industrial sectors. The dataset includes structured telemetry and maintenance logs from various heavy industries, formatted specifically for fine-tuning Large Language Models. By providing high-quality, local data, the initiative seeks to foster the creation of AI tools that can predict equipment failure and optimize supply chains in the Nigerian context. This highlights a broader global trend where the focus is shifting from general-purpose AI to highly specialized, localized data repositories.
+**Summary:**
+Addressing the scarcity of industrial data in emerging markets, a new Nigeria-focused machinery dataset has been released with an LLM-ready structure.
+신흥 시장의 산업 데이터 부족 문제를 해결하기 위해, 나이지리아 기계 산업에 초점을 맞춘 새로운 LLM 대응 데이터셋이 출시되었습니다.
 
-**요약 (KR):**
-신흥 시장의 산업 데이터 부족 문제를 해결하기 위해, 나이지리아 기계 산업에 초점을 맞춘 새로운 LLM 대응 데이터셋이 출시되었습니다. 이 프로젝트는 아프리카 산업 부문의 현지화된 AI 솔루션 개발을 종종 가로막는 '데이터 사막' 현상을 극복하는 것을 목표로 합니다. 해당 데이터셋은 다양한 중공업 분야의 구조화된 텔레메트리 및 유지보수 로그를 포함하며, 대규모 언어 모델을 미세 조정(Fine-tuning)할 수 있는 형식으로 구성되었습니다. 고품질의 현지 데이터를 제공함으로써, 이 이니셔티브는 나이지리아 상황에 맞게 장비 고장을 예측하고 공급망을 최적화할 수 있는 AI 툴의 탄생을 장려합니다. 이는 범용 AI에서 고도로 전문화되고 현지화된 데이터 저장소로 중심이 이동하고 있는 광범위한 글로벌 트렌드를 보여줍니다.
+This project aims to overcome the "data desert" that often hampers the development of localized AI solutions for African industrial sectors.
+이 프로젝트는 아프리카 산업 부문의 현지화된 AI 솔루션 개발을 종종 가로막는 '데이터 사막' 현상을 극복하는 것을 목표로 합니다.
+
+The dataset includes structured telemetry and maintenance logs from various heavy industries, formatted specifically for fine-tuning Large Language Models.
+해당 데이터셋은 다양한 중공업 분야의 구조화된 텔레메트리 및 유지보수 로그를 포함하며, 대규모 언어 모델을 미세 조정(Fine-tuning)할 수 있는 형식으로 구성되었습니다.
+
+By providing high-quality, local data, the initiative seeks to foster the creation of AI tools that can predict equipment failure and optimize supply chains in the Nigerian context.
+고품질의 현지 데이터를 제공함으로써, 이 이니셔티브는 나이지리아 상황에 맞게 장비 고장을 예측하고 공급망을 최적화할 수 있는 AI 툴의 탄생을 장려합니다.
+
+This highlights a broader global trend where the focus is shifting from general-purpose AI to highly specialized, localized data repositories.
+이는 범용 AI에서 고도로 전문화되고 현지화된 데이터 저장소로 중심이 이동하고 있는 광범위한 글로벌 트렌드를 보여줍니다.
 
 **Tags:** #IndustrialAI #DataScience #Nigeria #LLM #SupplyChain #EmergingMarkets
 
@@ -121,11 +211,21 @@ Addressing the scarcity of industrial data in emerging markets, a new Nigeria-fo
 
 **Source:** The Verge - AI
 
-**Summary (EN):**
-Plans for the largest data center ever built are facing significant opposition in Utah due to immense water and power requirements. As the AI boom drives an insatiable demand for compute power, the physical infrastructure supporting these technologies is straining local environmental resources. Critics argue that the massive energy consumption could lead to higher utility rates for residents and jeopardize the state's climate goals. This conflict illustrates the growing tension between the rapid expansion of AI capabilities and the sustainability of the physical infrastructure required to house them. The outcome of this debate will likely influence future site selection and regulatory requirements for mega-data centers globally.
+**Summary:**
+Plans for the largest data center ever built are facing significant opposition in Utah due to immense water and power requirements.
+사상 최대 규모로 계획된 데이터 센터 건립이 엄청난 양의 물과 전력 소모 문제로 인해 유타주에서 거센 반대에 부딪혔습니다.
 
-**요약 (KR):**
-사상 최대 규모로 계획된 데이터 센터 건립이 엄청난 양의 물과 전력 소모 문제로 인해 유타주에서 거센 반대에 부딪혔습니다. AI 붐이 컴퓨팅 파워에 대한 끊임없는 수요를 창출함에 따라, 이러한 기술을 뒷받침하는 물리적 인프라가 지역 환경 자원에 큰 부담을 주고 있습니다. 비판론자들은 막대한 에너지 소비가 주민들의 전기료 인상으로 이어지고 주 정부의 기후 목표 달성을 저해할 수 있다고 주장합니다. 이러한 갈등은 AI 역량의 급격한 확장과 이를 수용하는 데 필요한 물리적 인프라의 지속 가능성 사이의 커지는 긴장을 잘 보여줍니다. 이번 논쟁의 결과는 향후 전 세계 메가 데이터 센터의 입지 선정과 규제 요건에 큰 영향을 미칠 것으로 보입니다.
+As the AI boom drives an insatiable demand for compute power, the physical infrastructure supporting these technologies is straining local environmental resources.
+AI 붐이 컴퓨팅 파워에 대한 끊임없는 수요를 창출함에 따라, 이러한 기술을 뒷받침하는 물리적 인프라가 지역 환경 자원에 큰 부담을 주고 있습니다.
+
+Critics argue that the massive energy consumption could lead to higher utility rates for residents and jeopardize the state's climate goals.
+비판론자들은 막대한 에너지 소비가 주민들의 전기료 인상으로 이어지고 주 정부의 기후 목표 달성을 저해할 수 있다고 주장합니다.
+
+This conflict illustrates the growing tension between the rapid expansion of AI capabilities and the sustainability of the physical infrastructure required to house them.
+이러한 갈등은 AI 역량의 급격한 확장과 이를 수용하는 데 필요한 물리적 인프라의 지속 가능성 사이의 커지는 긴장을 잘 보여줍니다.
+
+The outcome of this debate will likely influence future site selection and regulatory requirements for mega-data centers globally.
+이번 논쟁의 결과는 향후 전 세계 메가 데이터 센터의 입지 선정과 규제 요건에 큰 영향을 미칠 것으로 보입니다.
 
 **Tags:** #DataCenter #AIInfrastructure #Sustainability #Utah #EnergyConsumption #CloudComputing
 

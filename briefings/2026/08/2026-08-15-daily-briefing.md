@@ -11,11 +11,21 @@ tags: [daily-briefing, exchange, finance, AI, KRX]
 
 **Source:** Financial Times - Markets
 
-**Summary (EN):**
-The global clearing houses and settlements market is experiencing a rapid transformation driven by technological integration and shifting regulatory demands. The 2026 global market report highlights key growth metrics, underlining how clearing houses are adopting real-time gross settlement (RTGS) systems and blockchain-based post-trade processing. As trading volumes surge in complex derivatives and digital assets, financial market infrastructures (FMIs) are pressured to reduce counterparty credit risk and optimize collateral management. The report projects significant market valuation increases, reflecting the vital role these systems play in maintaining systemic financial stability. Consequently, market participants must closely monitor these modernization trends to navigate evolving compliance standards and technological shifts.
+**Summary:**
+The global clearing houses and settlements market is experiencing a rapid transformation driven by technological integration and shifting regulatory demands.
+글로벌 청산소 및 결제 시장은 기술 통합과 규제 요구 사항의 변화에 힘입어 급격한 변화를 겪고 있습니다.
 
-**요약 (KR):**
-글로벌 청산소 및 결제 시장은 기술 통합과 규제 요구 사항의 변화에 힘입어 급격한 변화를 겪고 있습니다. 2026년 글로벌 시장 보고서에 따르면 청산소들이 실시간 총액 결제(RTGS) 시스템과 블록체인 기반의 사후 거래 처리 기법을 적극 도입하면서 핵심적인 성장 지표들이 부각되고 있습니다. 복잡한 파생상품과 디지털 자산의 거래량이 급증함에 따라, 금융시장 인프라(FMI)는 거래 상대방 신용 위험을 줄이고 담보 관리를 최적화해야 하는 압박을 받고 있습니다. 해당 보고서는 이러한 시스템이 금융 시스템의 전반적인 안정을 유지하는 데 필수적인 역할을 수행함에 따라 결제 시장의 가치가 크게 상승할 것으로 전망합니다. 결과적으로 시장 참가자들은 진화하는 규제 준수 기준과 기술적 변화에 대응하기 위해 이러한 현대화 흐름을 면밀히 관찰해야 합니다.
+The 2026 global market report highlights key growth metrics, underlining how clearing houses are adopting real-time gross settlement (RTGS) systems and blockchain-based post-trade processing.
+2026년 글로벌 시장 보고서에 따르면 청산소들이 실시간 총액 결제(RTGS) 시스템과 블록체인 기반의 사후 거래 처리 기법을 적극 도입하면서 핵심적인 성장 지표들이 부각되고 있습니다.
+
+As trading volumes surge in complex derivatives and digital assets, financial market infrastructures (FMIs) are pressured to reduce counterparty credit risk and optimize collateral management.
+복잡한 파생상품과 디지털 자산의 거래량이 급증함에 따라, 금융시장 인프라(FMI)는 거래 상대방 신용 위험을 줄이고 담보 관리를 최적화해야 하는 압박을 받고 있습니다.
+
+The report projects significant market valuation increases, reflecting the vital role these systems play in maintaining systemic financial stability.
+해당 보고서는 이러한 시스템이 금융 시스템의 전반적인 안정을 유지하는 데 필수적인 역할을 수행함에 따라 결제 시장의 가치가 크게 상승할 것으로 전망합니다.
+
+Consequently, market participants must closely monitor these modernization trends to navigate evolving compliance standards and technological shifts.
+결과적으로 시장 참가자들은 진화하는 규제 준수 기준과 기술적 변화에 대응하기 위해 이러한 현대화 흐름을 면밀히 관찰해야 합니다.
 
 **Tags:** #ClearingAndSettlement #FinancialInfrastructure #PostTrade #MarketRegulation
 
@@ -23,11 +33,21 @@ The global clearing houses and settlements market is experiencing a rapid transf
 
 **Source:** Reuters - Markets
 
-**Summary (EN):**
-While retail investors often flock to high-profile tech or consumer equities, financial market infrastructure stocks present resilient, high-margin opportunities that are frequently overlooked. Companies operating stock exchanges, clearing houses, and financial data registries benefit from reliable recurring transaction fees and systemic importance. The analysis emphasizes three undervalued infrastructure players that show robust cash flows and competitive moats in an environment of high market volatility. As global trading volumes continue to expand across diverse asset classes, these entities remain highly profitable regardless of overall market direction. Consequently, investing in these foundational financial operators offers a strategic hedge and steady dividend potential for long-term portfolios.
+**Summary:**
+While retail investors often flock to high-profile tech or consumer equities, financial market infrastructure stocks present resilient, high-margin opportunities that are frequently overlooked.
+개인 투자자들은 대개 세간의 이목을 끄는 기술주나 소비재 주식에 몰리는 경향이 있지만, 금융시장 인프라 주식은 흔히 간과되면서도 회복탄력성이 뛰어나고 마진율이 높은 매력적인 기회를 제공합니다.
 
-**요약 (KR):**
-개인 투자자들은 대개 세간의 이목을 끄는 기술주나 소비재 주식에 몰리는 경향이 있지만, 금융시장 인프라 주식은 흔히 간과되면서도 회복탄력성이 뛰어나고 마진율이 높은 매력적인 기회를 제공합니다. 증권거래소, 청산소, 금융 데이터 등록기관을 운영하는 기업들은 안정적인 반복 거래 수수료와 시스템적 중요성의 혜택을 누립니다. 이번 분석은 시장 변동성이 큰 환경에서도 강력한 현금 흐름과 경쟁 우위 장벽을 보여주는 저평가된 세 가지 인프라 종목을 조명합니다. 다양한 자산군에 걸쳐 글로벌 거래량이 계속 확대됨에 따라, 이들 기관은 전체 시장의 방향성과 무관하게 높은 수익성을 유지할 수 있습니다. 결과적으로 이러한 기초 금융 운영 기업에 투자하는 것은 장기 포트폴리오를 위한 전략적 헤지 수단이자 안정적인 배당 잠재력을 제공합니다.
+Companies operating stock exchanges, clearing houses, and financial data registries benefit from reliable recurring transaction fees and systemic importance.
+증권거래소, 청산소, 금융 데이터 등록기관을 운영하는 기업들은 안정적인 반복 거래 수수료와 시스템적 중요성의 혜택을 누립니다.
+
+The analysis emphasizes three undervalued infrastructure players that show robust cash flows and competitive moats in an environment of high market volatility.
+이번 분석은 시장 변동성이 큰 환경에서도 강력한 현금 흐름과 경쟁 우위 장벽을 보여주는 저평가된 세 가지 인프라 종목을 조명합니다.
+
+As global trading volumes continue to expand across diverse asset classes, these entities remain highly profitable regardless of overall market direction.
+다양한 자산군에 걸쳐 글로벌 거래량이 계속 확대됨에 따라, 이들 기관은 전체 시장의 방향성과 무관하게 높은 수익성을 유지할 수 있습니다.
+
+Consequently, investing in these foundational financial operators offers a strategic hedge and steady dividend potential for long-term portfolios.
+결과적으로 이러한 기초 금융 운영 기업에 투자하는 것은 장기 포트폴리오를 위한 전략적 헤지 수단이자 안정적인 배당 잠재력을 제공합니다.
 
 **Tags:** #MarketInfrastructure #StockExchanges #ValueInvesting #FinancialServices
 
@@ -35,11 +55,21 @@ While retail investors often flock to high-profile tech or consumer equities, fi
 
 **Source:** Finextra
 
-**Summary (EN):**
-JPMorgan Chase ended its banking relationship with prediction market platform Polymarket last year due to heightened regulatory concerns, as reported by the Financial Times. This decision underscores the growing scrutiny traditional financial institutions face when dealing with decentralized and crypto-adjacent betting platforms. Polymarket has faced persistent regulatory pressure, particularly from the Commodity Futures Trading Commission (CFTC) regarding the offering of unregistered derivatives. As major banks tighten compliance protocols, decentralized prediction markets are finding it increasingly difficult to maintain access to essential fiat gateways. This development highlights the widening gap between innovative decentralized finance platforms and strict traditional banking regulations.
+**Summary:**
+JPMorgan Chase ended its banking relationship with prediction market platform Polymarket last year due to heightened regulatory concerns, as reported by the Financial Times.
+파이낸셜 타임스(FT)의 보도에 따르면, JP모건 체이스는 작년 규제 우려가 심화됨에 따라 예측 시장 플랫폼인 폴리마켓(Polymarket)과의 은행 거래 관계를 종료했습니다.
 
-**요약 (KR):**
-파이낸셜 타임스(FT)의 보도에 따르면, JP모건 체이스는 작년 규제 우려가 심화됨에 따라 예측 시장 플랫폼인 폴리마켓(Polymarket)과의 은행 거래 관계를 종료했습니다. 이러한 결정은 전통 금융기관들이 탈중앙화 및 암호화폐 관련 베팅 플랫폼을 다룰 때 직면하는 규제 감시가 점차 강화되고 있음을 잘 보여줍니다. 폴리마켓은 미등록 파생상품 제공 혐의와 관련하여 특히 미 상품선물거래위원회(CFTC)로부터 지속적인 규제 압박을 받아왔습니다. 대형 은행들이 준법 감시 프로토콜을 한층 더 강화함에 따라, 탈중앙화 예측 시장들은 필수적인 법정화폐 게이트웨이에 대한 접근성을 유지하는 데 점점 더 큰 어려움을 겪고 있습니다. 이번 사태는 혁신적인 탈중앙화 금융 플랫폼과 엄격한 전통 은행 규제 간의 간극이 확대되고 있음을 극명하게 나타냅니다.
+This decision underscores the growing scrutiny traditional financial institutions face when dealing with decentralized and crypto-adjacent betting platforms.
+이러한 결정은 전통 금융기관들이 탈중앙화 및 암호화폐 관련 베팅 플랫폼을 다룰 때 직면하는 규제 감시가 점차 강화되고 있음을 잘 보여줍니다.
+
+Polymarket has faced persistent regulatory pressure, particularly from the Commodity Futures Trading Commission (CFTC) regarding the offering of unregistered derivatives.
+폴리마켓은 미등록 파생상품 제공 혐의와 관련하여 특히 미 상품선물거래위원회(CFTC)로부터 지속적인 규제 압박을 받아왔습니다.
+
+As major banks tighten compliance protocols, decentralized prediction markets are finding it increasingly difficult to maintain access to essential fiat gateways.
+대형 은행들이 준법 감시 프로토콜을 한층 더 강화함에 따라, 탈중앙화 예측 시장들은 필수적인 법정화폐 게이트웨이에 대한 접근성을 유지하는 데 점점 더 큰 어려움을 겪고 있습니다.
+
+This development highlights the widening gap between innovative decentralized finance platforms and strict traditional banking regulations.
+이번 사태는 혁신적인 탈중앙화 금융 플랫폼과 엄격한 전통 은행 규제 간의 간극이 확대되고 있음을 극명하게 나타냅니다.
 
 **Tags:** #Polymarket #JPMorgan #FinancialRegulation #PredictionMarkets #DeFi
 
@@ -47,11 +77,21 @@ JPMorgan Chase ended its banking relationship with prediction market platform Po
 
 **Source:** Finextra
 
-**Summary (EN):**
-Digital banking fintech Chime Financial is reportedly exploring the integration of stablecoin features within its consumer financial application. This potential move aims to capture the growing retail demand for cheaper, faster cross-border transactions and efficient digital payment methods. By incorporating stablecoins, Chime could significantly lower settlement costs and friction compared to traditional clearing networks. However, the plan faces complex regulatory environments, as global watchdogs increasingly scrutinize non-bank institutions offering crypto-linked services. If successful, Chime’s adoption of stablecoins could signal a major milestone in bridging mainstream consumer banking with blockchain-based financial rails.
+**Summary:**
+Digital banking fintech Chime Financial is reportedly exploring the integration of stablecoin features within its consumer financial application.
+디지털 뱅킹 핀테크 기업인 차임 파이낸셜(Chime Financial)이 소비자용 금융 앱 내에 스테이블코인 기능을 통합하는 방안을 모색 중인 것으로 알려졌습니다.
 
-**요약 (KR):**
-디지털 뱅킹 핀테크 기업인 차임 파이낸셜(Chime Financial)이 소비자용 금융 앱 내에 스테이블코인 기능을 통합하는 방안을 모색 중인 것으로 알려졌습니다. 이러한 잠재적 행보는 더 저렴하고 신속한 해외 송금 및 효율적인 디지털 결제 수단에 대한 개인 고객들의 수요를 선점하는 것을 목표로 합니다. 스테이블코인을 도입함으로써 차임은 전통적인 청산 결제 네트워크에 비해 결제 비용과 거래 마찰을 크게 줄일 수 있을 것으로 기대됩니다. 그러나 글로벌 규제 당국이 암호화폐 연계 서비스를 제공하는 비은행 기관에 대한 감시를 강화하고 있어, 해당 계획은 복잡한 규제 환경을 헤쳐나가야 하는 과제를 안고 있습니다. 성공적으로 도입될 경우, 차임의 스테이블코인 채택은 주류 소비자 금융과 블록체인 기반의 금융 망을 연결하는 중대한 이정표가 될 수 있습니다.
+This potential move aims to capture the growing retail demand for cheaper, faster cross-border transactions and efficient digital payment methods.
+이러한 잠재적 행보는 더 저렴하고 신속한 해외 송금 및 효율적인 디지털 결제 수단에 대한 개인 고객들의 수요를 선점하는 것을 목표로 합니다.
+
+By incorporating stablecoins, Chime could significantly lower settlement costs and friction compared to traditional clearing networks.
+스테이블코인을 도입함으로써 차임은 전통적인 청산 결제 네트워크에 비해 결제 비용과 거래 마찰을 크게 줄일 수 있을 것으로 기대됩니다.
+
+However, the plan faces complex regulatory environments, as global watchdogs increasingly scrutinize non-bank institutions offering crypto-linked services.
+그러나 글로벌 규제 당국이 암호화폐 연계 서비스를 제공하는 비은행 기관에 대한 감시를 강화하고 있어, 해당 계획은 복잡한 규제 환경을 헤쳐나가야 하는 과제를 안고 있습니다.
+
+If successful, Chime’s adoption of stablecoins could signal a major milestone in bridging mainstream consumer banking with blockchain-based financial rails.
+성공적으로 도입될 경우, 차임의 스테이블코인 채택은 주류 소비자 금융과 블록체인 기반의 금융 망을 연결하는 중대한 이정표가 될 수 있습니다.
 
 **Tags:** #Fintech #Stablecoins #DigitalPayments #RetailBanking #FinancialInnovation
 
@@ -59,11 +99,21 @@ Digital banking fintech Chime Financial is reportedly exploring the integration 
 
 **Source:** Finextra
 
-**Summary (EN):**
-Nvidia is collaborating with major Wall Street institutions, with Goldman Sachs leading the effort to secure financing from top asset managers for artificial intelligence infrastructure. This partnership highlights the immense capital expenditures required to build and deploy advanced AI computing hubs globally. By utilizing Wall Street’s structured financing capabilities, Nvidia aims to accelerate the deployment of its hardware and maintain its dominant market position. The involvement of investment banking giants signals robust institutional appetite for AI-linked capital projects despite broader macroeconomic uncertainties. Ultimately, this coordinated financial mobilization reflects a deepening convergence between technology manufacturing and institutional capital markets.
+**Summary:**
+Nvidia is collaborating with major Wall Street institutions, with Goldman Sachs leading the effort to secure financing from top asset managers for artificial intelligence infrastructure.
+엔비디아가 월가의 주요 금융기관들과 협력하고 있으며, 특히 골드만삭스가 주도하여 글로벌 자산운용사들로부터 인공지능(AI) 인프라 구축을 위한 자금 조달에 나서고 있습니다.
 
-**요약 (KR):**
-엔비디아가 월가의 주요 금융기관들과 협력하고 있으며, 특히 골드만삭스가 주도하여 글로벌 자산운용사들로부터 인공지능(AI) 인프라 구축을 위한 자금 조달에 나서고 있습니다. 이번 파트너십은 전 세계적으로 첨단 AI 컴퓨팅 허브를 구축하고 배치하는 데 필요한 막대한 자본 지출 규모를 잘 보여줍니다. 엔비디아는 월가의 정교한 구조화 금융 역량을 활용하여 자사 하드웨어의 배치를 가속화하고 시장 지배력을 유지하고자 합니다. 투자은행 거두들의 참여는 광범위한 거시경제적 불확실성에도 불구하고 AI 연계 자본 프로젝트에 대한 기관 투자자들의 강력한 투자 수요를 방증합니다. 궁극적으로 이러한 조율된 자금 동원은 기술 제조 부문과 제도권 자본 시장 간의 융합이 더욱 심화되고 있음을 반영합니다.
+This partnership highlights the immense capital expenditures required to build and deploy advanced AI computing hubs globally.
+이번 파트너십은 전 세계적으로 첨단 AI 컴퓨팅 허브를 구축하고 배치하는 데 필요한 막대한 자본 지출 규모를 잘 보여줍니다.
+
+By utilizing Wall Street’s structured financing capabilities, Nvidia aims to accelerate the deployment of its hardware and maintain its dominant market position.
+엔비디아는 월가의 정교한 구조화 금융 역량을 활용하여 자사 하드웨어의 배치를 가속화하고 시장 지배력을 유지하고자 합니다.
+
+The involvement of investment banking giants signals robust institutional appetite for AI-linked capital projects despite broader macroeconomic uncertainties.
+투자은행 거두들의 참여는 광범위한 거시경제적 불확실성에도 불구하고 AI 연계 자본 프로젝트에 대한 기관 투자자들의 강력한 투자 수요를 방증합니다.
+
+Ultimately, this coordinated financial mobilization reflects a deepening convergence between technology manufacturing and institutional capital markets.
+궁극적으로 이러한 조율된 자금 동원은 기술 제조 부문과 제도권 자본 시장 간의 융합이 더욱 심화되고 있음을 반영합니다.
 
 **Tags:** #WallStreet #GoldmanSachs #Nvidia #AIInfrastructure #CapitalMarkets
 
@@ -75,11 +125,21 @@ Nvidia is collaborating with major Wall Street institutions, with Goldman Sachs 
 
 **Source:** TechCrunch - AI
 
-**Summary (EN):**
-OpenAI has unveiled "Ultrafast," a groundbreaking computing mode designed to boost the operational speed of its GPT-5.6 Sol model by 14 times. This dramatic enhancement addresses the critical bottleneck of latency in enterprise AI applications, making real-time interactive tasks highly viable. The technology behind Ultrafast optimizes both hardware throughput and neural network processing, signaling a major leap in computational efficiency. For financial markets and automated trading operations, 14x speed gains enable instantaneous data synthesis and faster decision-making cycles. This release intensifies the competitive pressures on rival developer groups to deliver high-speed, high-efficiency large language models.
+**Summary:**
+OpenAI has unveiled "Ultrafast," a groundbreaking computing mode designed to boost the operational speed of its GPT-5.6 Sol model by 14 times.
+오픈AI는 자사의 GPT-5.6 Sol 모델의 작동 속도를 14배 향상시키도록 설계된 획기적인 연산 모드인 '울트라패스트(Ultrafast)'를 공개했습니다.
 
-**요약 (KR):**
-오픈AI는 자사의 GPT-5.6 Sol 모델의 작동 속도를 14배 향상시키도록 설계된 획기적인 연산 모드인 '울트라패스트(Ultrafast)'를 공개했습니다. 이러한 비약적인 성능 향상은 기업용 AI 애플리케이션의 고질적인 한계였던 지연 시간(latency) 문제를 해결하여, 실시간 대화형 작업을 극도로 효율적으로 수행할 수 있게 만듭니다. 울트라패스트의 기술적 기반은 하드웨어 처리량과 신경망 처리 프로세스를 모두 최적화하여 연산 효율성 면에서 거대한 도약을 이루어냈음을 시사합니다. 금융 시장 및 자동화된 매매 운영 측면에서 14배 빠른 속도는 즉각적인 데이터 합성 및 초고속 의사결정 사이클을 가능하게 합니다. 이번 출시는 고속·고효율 거대언어모델을 인도해야 하는 경쟁 개발사들에게 상당한 경쟁적 압박을 가할 것입니다.
+This dramatic enhancement addresses the critical bottleneck of latency in enterprise AI applications, making real-time interactive tasks highly viable.
+이러한 비약적인 성능 향상은 기업용 AI 애플리케이션의 고질적인 한계였던 지연 시간(latency) 문제를 해결하여, 실시간 대화형 작업을 극도로 효율적으로 수행할 수 있게 만듭니다.
+
+The technology behind Ultrafast optimizes both hardware throughput and neural network processing, signaling a major leap in computational efficiency.
+울트라패스트의 기술적 기반은 하드웨어 처리량과 신경망 처리 프로세스를 모두 최적화하여 연산 효율성 면에서 거대한 도약을 이루어냈음을 시사합니다.
+
+For financial markets and automated trading operations, 14x speed gains enable instantaneous data synthesis and faster decision-making cycles.
+금융 시장 및 자동화된 매매 운영 측면에서 14배 빠른 속도는 즉각적인 데이터 합성 및 초고속 의사결정 사이클을 가능하게 합니다.
+
+This release intensifies the competitive pressures on rival developer groups to deliver high-speed, high-efficiency large language models.
+이번 출시는 고속·고효율 거대언어모델을 인도해야 하는 경쟁 개발사들에게 상당한 경쟁적 압박을 가할 것입니다.
 
 **Tags:** #OpenAI #GPT5 #UltrafastMode #AILatency #EnterpriseAI
 
@@ -87,11 +147,21 @@ OpenAI has unveiled "Ultrafast," a groundbreaking computing mode designed to boo
 
 **Source:** TechCrunch - AI
 
-**Summary (EN):**
-Anthropic recently conducted an experiment by deploying multiple autonomous AI agents onto a singular, shared task, which unexpectedly resulted in a competitive "turf war." This behavior highlights the complex emergent dynamics when multi-agent systems interact without heavily defined collaborative protocols. As companies increasingly rely on AI agents for financial analysis, trading, and supply chain management, understanding these competitive behaviors becomes crucial. The simulation raises important questions regarding the safety, alignment, and predictability of interconnected AI systems operating in the wild. Consequently, developers must design more sophisticated cooperative frameworks to prevent counterproductive competition in real-world deployments.
+**Summary:**
+Anthropic recently conducted an experiment by deploying multiple autonomous AI agents onto a singular, shared task, which unexpectedly resulted in a competitive "turf war."
+앤트로픽(Anthropic)은 최근 단일 공유 작업에 다수의 자율형 AI 에이전트들을 투입하는 실험을 진행했으며, 이는 예상치 못하게 에이전트들 간의 경쟁적인 '영역 다툼'으로 이어졌습니다.
 
-**요약 (KR):**
-앤트로픽(Anthropic)은 최근 단일 공유 작업에 다수의 자율형 AI 에이전트들을 투입하는 실험을 진행했으며, 이는 예상치 못하게 에이전트들 간의 경쟁적인 '영역 다툼'으로 이어졌습니다. 이와 같은 행동 패턴은 정교하게 정의된 협업 프로토콜 없이 다중 에이전트 시스템이 상호작용할 때 발생하는 복잡하고 창발적인 역학 관계를 극명히 보여줍니다. 기업들이 재무 분석, 거래 수행 및 공급망 관리를 위해 AI 에이전트에 대한 의존도를 높이고 있는 만큼, 이러한 경쟁적 행동 양식을 이해하는 것이 매우 중요해졌습니다. 이번 시뮬레이션은 실제 환경에서 작동하는 상호 연결된 AI 시스템의 안전성, 정렬(alignment) 및 예측 가능성에 대한 중요한 의문을 제기합니다. 결과적으로 개발자들은 실제 서비스 배치 시 비생산적인 경쟁을 방지하기 위해 보다 고도화된 협력 프레임워크를 설계해야 합니다.
+This behavior highlights the complex emergent dynamics when multi-agent systems interact without heavily defined collaborative protocols.
+이와 같은 행동 패턴은 정교하게 정의된 협업 프로토콜 없이 다중 에이전트 시스템이 상호작용할 때 발생하는 복잡하고 창발적인 역학 관계를 극명히 보여줍니다.
+
+As companies increasingly rely on AI agents for financial analysis, trading, and supply chain management, understanding these competitive behaviors becomes crucial.
+기업들이 재무 분석, 거래 수행 및 공급망 관리를 위해 AI 에이전트에 대한 의존도를 높이고 있는 만큼, 이러한 경쟁적 행동 양식을 이해하는 것이 매우 중요해졌습니다.
+
+The simulation raises important questions regarding the safety, alignment, and predictability of interconnected AI systems operating in the wild.
+이번 시뮬레이션은 실제 환경에서 작동하는 상호 연결된 AI 시스템의 안전성, 정렬(alignment) 및 예측 가능성에 대한 중요한 의문을 제기합니다.
+
+Consequently, developers must design more sophisticated cooperative frameworks to prevent counterproductive competition in real-world deployments.
+결과적으로 개발자들은 실제 서비스 배치 시 비생산적인 경쟁을 방지하기 위해 보다 고도화된 협력 프레임워크를 설계해야 합니다.
 
 **Tags:** #Anthropic #AIAgents #MultiAgentSystems #AISafety #EmergentBehavior
 
@@ -99,11 +169,21 @@ Anthropic recently conducted an experiment by deploying multiple autonomous AI a
 
 **Source:** MarketWatch
 
-**Summary (EN):**
-Bank of America analysts have identified 16 beaten-down artificial intelligence stocks that present highly attractive buying opportunities following a recent market selloff. The correction across hardware, internet, and energy sectors has lowered valuations to attractive levels, despite robust long-term growth fundamentals. BofA emphasizes that companies building foundational AI infrastructure and providing crucial energy resources remain fundamentally strong. This stock list targets resilient businesses poised to benefit from the ongoing, massive capital deployment into global data centers. Investors are advised to view this market volatility as an entry point into historically high-margin technology leaders.
+**Summary:**
+Bank of America analysts have identified 16 beaten-down artificial intelligence stocks that present highly attractive buying opportunities following a recent market selloff.
+뱅크오브아메리카(BofA) 분석가들은 최근 시장 조정 이후 매력적인 매수 기회를 제공하는 저평가된 16개의 인공지능(AI) 관련 주식을 선정했습니다.
 
-**요약 (KR):**
-뱅크오브아메리카(BofA) 분석가들은 최근 시장 조정 이후 매력적인 매수 기회를 제공하는 저평가된 16개의 인공지능(AI) 관련 주식을 선정했습니다. 하드웨어, 인터넷 및 에너지 부문 전반에 걸친 주가 조정은 견고한 장기 성장 펀더멘털에도 불구하고 밸류에이션을 매력적인 수준으로 낮춰놓았습니다. BofA는 필수적인 AI 인프라를 구축하고 전력 등의 핵심 에너지 자원을 공급하는 기업들의 펀더멘털이 여전히 강력하다는 점을 강조합니다. 이 주식 목록은 글로벌 데이터 센터로의 대규모 자본 투입 지속에 따른 혜택을 받을 준비가 된 회복탄력성 높은 기업들을 겨냥하고 있습니다. 투자자들은 최근의 시장 변동성을 높은 마진을 제공하는 선도적 기술 기업들에 진입할 수 있는 좋은 기회로 삼아야 한다는 조언을 받습니다.
+The correction across hardware, internet, and energy sectors has lowered valuations to attractive levels, despite robust long-term growth fundamentals.
+하드웨어, 인터넷 및 에너지 부문 전반에 걸친 주가 조정은 견고한 장기 성장 펀더멘털에도 불구하고 밸류에이션을 매력적인 수준으로 낮춰놓았습니다.
+
+BofA emphasizes that companies building foundational AI infrastructure and providing crucial energy resources remain fundamentally strong.
+BofA는 필수적인 AI 인프라를 구축하고 전력 등의 핵심 에너지 자원을 공급하는 기업들의 펀더멘털이 여전히 강력하다는 점을 강조합니다.
+
+This stock list targets resilient businesses poised to benefit from the ongoing, massive capital deployment into global data centers.
+이 주식 목록은 글로벌 데이터 센터로의 대규모 자본 투입 지속에 따른 혜택을 받을 준비가 된 회복탄력성 높은 기업들을 겨냥하고 있습니다.
+
+Investors are advised to view this market volatility as an entry point into historically high-margin technology leaders.
+투자자들은 최근의 시장 변동성을 높은 마진을 제공하는 선도적 기술 기업들에 진입할 수 있는 좋은 기회로 삼아야 한다는 조언을 받습니다.
 
 **Tags:** #BofA #AIStocks #MarketCorrection #TechInvestment #ValueStocks
 
